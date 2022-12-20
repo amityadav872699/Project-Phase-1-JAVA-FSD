@@ -15,12 +15,6 @@ A simple file handling project in java.
 
 Welcome screen displays the application name, developer details, directory information and main menu.
 
-<img alt = "First Prompt" src = "Images/First Prompt.PNG">
-<img alt = "File Display" src = "Images/File Display.PNG">
-<img alt = "Add Operation" src = "Images/Add Operation.PNG">
-<img alt = "Delete Operation" src = "Images/Delete Operation.PNG">
-<img alt = "Search Operation" src = "Images/Search Operation.PNG">
-<img alt = "Exit" src = "Images/Exit.PNG">
 
 The user has to select option from the user interface shown.
 
